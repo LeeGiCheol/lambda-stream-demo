@@ -1,4 +1,4 @@
-package me.gicheol.lambdastream.lambda;
+package me.gicheol.lambdastream.stream;
 
 import java.util.HashMap;
 import java.util.Map;
