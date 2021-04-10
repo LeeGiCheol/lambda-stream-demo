@@ -11,6 +11,10 @@ import java.util.stream.Stream;
  */
 public class StreamFinalOperator {
     public static void main(String[] args) {
+        finalOperator();
+    }
+
+    private static void finalOperator() {
         String[] strArr = {
                 "Inheritance", "Java", "Lambda", "stream",
                 "OptionalDouble", "IntStream", "count", "sum"
